@@ -1,0 +1,28 @@
+
+# Analysis de sentimientos usando python
+
+## Installation
+
+1.- Descargar Python  
+2.- Instalar virtualenv
+```bash
+pip install virtualenv
+```
+3.- Crea un ambiente virtual
+```bash
+virtualenv nombre_del_entorno
+```
+4.- Activa el ambiente virtual  
+Windows:
+```bash
+nombre_del_entorno\Scripts\activate
+```
+Mac:
+```bash
+source mi_entorno/bin/activate
+```
+5.- Instala todas las dependencias
+```bash
+pip install -r requirements.txt
+```
+    
